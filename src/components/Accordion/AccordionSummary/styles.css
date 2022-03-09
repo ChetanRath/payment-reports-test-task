@@ -1,0 +1,10 @@
+.accordion-summary-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  border-radius: 12px;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:before {
+  background-color: rgb(255 255 255) !important;
+  top: 0px !important;
+}

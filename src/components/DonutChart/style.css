@@ -1,0 +1,13 @@
+.graph {
+  height: 345px;
+  margin: 16px;
+}
+.rootDonutHeat {
+  display: inline-flex;
+  margin: 16px;
+}
+
+.rootDonutHeadHeat {
+  display: flex;
+  justify-content: center;
+}

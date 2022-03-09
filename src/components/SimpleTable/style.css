@@ -1,0 +1,98 @@
+.css-1wvnaxz-MuiTableCell-root.MuiTableCell-head {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+.css-og52vs-MuiTableCell-root.MuiTableCell-head {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+.css-1nslmh4-MuiTableCell-root.MuiTableCell-head {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+.css-1enotpu-MuiTableRow-root:nth-of-type(odd) {
+  background-color: hsl(0, 0%, 100%) !important;
+}
+.css-1pclhgl-MuiTable-root caption {
+  font-weight: 700 !important;
+}
+.css-1xspv29-MuiTableCell-root {
+  border-bottom: none !important;
+  font-weight: 700 !important;
+}
+.css-zddlty-MuiButtonBase-root-MuiButton-root {
+  background-color: #005b96 !important;
+  min-height: 41px;
+  margin: 0.5em !important;
+}
+.css-1enotpu-MuiTableRow-root:nth-of-type(odd) {
+  background-color: rgb(241, 250, 254);
+}
+.tableContent {
+  margin-right: auto;
+}
+.tableMainContent {
+  z-index: 50;
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+}
+.css-13o7eu2 {
+  font-size: 0.9rem !important;
+  margin-right: 2rem;
+}
+.css-mhc70k-MuiGrid-root > .MuiGrid-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+}
+.css-1dydcym-MuiTableCell-root {
+  border-bottom: none !important;
+}
+.css-132a6sb-MuiTableCell-root {
+  border-bottom: none !important;
+}
+.css-1bhpkcd-MuiTableCell-root {
+  border-bottom: none !important;
+}
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+  box-shadow: none !important;
+  background-color: #f1fafe !important;
+}
+.css-1wvnaxz-MuiTableCell-root {
+  border-bottom: none !important;
+}
+.css-og52vs-MuiTableCell-root {
+  border-bottom: none !important;
+}
+.css-1nslmh4-MuiTableCell-root {
+  border-bottom: none !important;
+}
+.css-1ygcj2i-MuiTableCell-root {
+  border-bottom: none !important;
+  font-weight: 700 !important;
+  font-size: 1.2rem !important;
+}
+.css-1azl6jz-MuiTableCell-root {
+  border-bottom: none !important;
+  font-weight: 700 !important;
+  font-size: 1.3rem !important;
+}
+.css-nfmglb-MuiTableCell-root {
+  border-bottom: none !important;
+  font-weight: 700 !important;
+  font-size: 1.2rem !important;
+}
+.css-bp1ptj-MuiTableCell-root {
+  border-bottom: none !important;
+  font-weight: 700 !important;
+  font-size: 1.2rem !important;
+  color: rgb(31 32 33) !important;
+}
+.graph-color {
+  background-color: #f1fafe;
+  margin-right: 3rem !important;
+  margin-left: 3rem !important;
+  margin-top: 3rem !important;
+}

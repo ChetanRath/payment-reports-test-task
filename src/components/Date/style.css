@@ -1,0 +1,30 @@
+.css-1wc848c-MuiFormHelperText-root {
+  display: none;
+}
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  background-color: #1bc5bd;
+  margin-top: 0.5% !important;
+  border-radius: 5px !important;
+  width: 8.8rem;
+  margin: 0.5em !important;
+}
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  padding: 9.5px 5px !important;
+  color: aliceblue !important;
+}
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  color: rgb(255 255 255) !important;
+  line-height: 0.8375em !important;
+}
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+  display: none !important;
+}
+.css-bkrceb-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
+  background-color: #1bc5bd !important;
+}
+.css-195y93z-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
+  background-color: #1bc5bd !important;
+}
+.css-195y93z-MuiButtonBase-root-MuiPickersDay-root:not(.Mui-selected) {
+  border: 1px solid rgb(27 197 189) !important;
+}
